@@ -83,7 +83,7 @@
 |[ModifyDBInstanceNetworkExpireTime](cn.zh-CN/API参考/API参考/网络管理/ModifyDBInstanceNetworkExpireTime.md#)|修改连接地址过期时间|
 |[ModifyDBInstanceConnectionString](cn.zh-CN/API参考/API参考/网络管理/ModifyDBInstanceConnectionString.md#)|修改连接串|
 |[ModifyDBInstanceNetworkType](cn.zh-CN/API参考/API参考/网络管理/ModifyDBInstanceNetworkType.md#)|修改RDS实例网络类型|
-|[ReleaseInstancePublicConnection](cn.zh-CN/API参考/API参考/网络管理/ReleaseInstancePublicConnection.md#)|释放实例的外网连接串。|
+|[ReleaseInstancePublicConnection](cn.zh-CN/API参考/API参考/网络管理/ReleaseInstancePublicConnection.md#)|释放实例的外网连接串|
 |[SwitchDBInstanceNetType](cn.zh-CN/API参考/API参考/网络管理/SwitchDBInstanceNetType.md#)|申请内网连接串（原内外网切换）|
 
 ## 日志管理 {#section_xnx_shl_zdb .section}
